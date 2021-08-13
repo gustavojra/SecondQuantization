@@ -1,0 +1,4 @@
+name = "SecondQuantization"
+uuid = "e4990720-85da-47e3-8616-f20eca295767"
+authors = ["gustavojra <gustavo.aroeira@gmail.com>"]
+version = "0.1.0"
